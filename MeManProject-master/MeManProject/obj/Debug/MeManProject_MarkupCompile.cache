@@ -1,0 +1,20 @@
+﻿MeManProject
+
+
+winexe
+C#
+.cs
+C:\Users\Azur Computer\Desktop\MeManProject-master\MeManProject\obj\Debug\
+MeManProject
+none
+false
+DEBUG;TRACE
+C:\Users\Azur Computer\Desktop\MeManProject-master\MeManProject\App.xaml
+24-1528258852
+
+61267765617
+15-1408570102
+MainWindow.xaml;Pages\PageMenuSimulations.xaml;Pages\PagesSimulations\MemoireVirtuelle\SimulationAging.xaml;Pages\PagesSimulations\MemoireVirtuelle\SimulationConvAdr.xaml;Pages\PagesSimulations\MemoireVirtuelle\SimulationLFU.xaml;Pages\PagesSimulations\MemoireVirtuelle\SimulationLRU.xaml;Pages\PagesSimulations\MemoireVirtuelle\SimulationFIFO.xaml;Pages\PageEntree.xaml;Pages\PagesSimulations\PartitionsFixes\SimulationUneFile.xaml;Pages\PagesSimulations\PartitionsFixes\SimulationSwap.xaml;Pages\PagesSimulations\PartitionsFixes\SimulationPlusFiles.xaml;Pages\PagesSimulations\PartitionsVariables\SimulationFirstFit.xaml;Pages\PagesSimulations\PartitionsVariables\SimulationNextFit.xaml;Pages\PagesSimulations\PartitionsVariables\SimulationBestFit.xaml;Pages\PagesSimulations\PartitionsVariables\SimulationWorstFit.xaml;Pages\PagesSimulations\PartitionsVariables\SimulationBuddySystem.xaml;Pages\PagesSimulations\PartitionsVariables\SuiteBS.xaml;Splashscreen.xaml;Styles\DataGrid.xaml;Styles\Texts.xaml;Styles\Window.xaml;Styles\Buttons.xaml;Styles\Colors.xaml;Styles\Fonts.xaml;
+
+False
+
